@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
-""" This script contains a function to obfuscate personal data
-    in log messages.
-"""
+""" This script obfuscates personal data in log messages. """
 
 import logging
 import re

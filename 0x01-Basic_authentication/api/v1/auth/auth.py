@@ -4,6 +4,7 @@
 from flask import request
 from typing import List, TypeVar
 
+
 class Auth:
     """Provides methods for managing API authentication."""
 
